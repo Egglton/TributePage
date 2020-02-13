@@ -16,3 +16,9 @@
     padding:50px;
     border-radius:0.8%
 }
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
