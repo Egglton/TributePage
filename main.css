@@ -3,6 +3,7 @@
     background-color: hsla(149, 0%, 50%, 0.15);
     border-radius:0.8%;
     padding: 20px;
+    font-family: 'PT Sans', sans-serif;
 }
 #image {
     position: relative;    
@@ -14,11 +15,18 @@
 #img-div {
     background-color: white;
     padding:50px;
-    border-radius:0.8%
+    border-radius:0.8%;
+    margin:25px;
 }
 ul {
   max-width: 550px;
   margin: 0 auto 50px auto;
   text-align: left;
   line-height: 1.6;
+}
+#additional-info {
+    padding-bottom:20px;
+}
+h1 {
+    font-size: 50px;
 }
